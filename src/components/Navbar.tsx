@@ -16,7 +16,7 @@ const Navbar = () => {
       <div className="flex items-center justify-center gap-2 px-2">
         <ThemeToggle />
         <a
-          href="https://github.com/adityadomle/ResearchX"
+          href="https://github.com/ShreyashPainuly/ResearchX"
           target="_blank"
           rel="noopener noreferrer"
         >
