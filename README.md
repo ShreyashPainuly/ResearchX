@@ -14,8 +14,8 @@ ResearchX allows you to **generate comprehensive research documents** using adva
 ## ⚙️ Tech Stack  
 - Framework: Next.js • TypeScript • Tailwind CSS  
 - UI Library: shadcn UI  
-- AI Integration: Gemini API (or equivalent) for high-quality content  
+- AI Integration: Groq API (or equivalent) for high-quality content  
 - Document Processing: Export support for DOCX and PDF formats  
 
 ## 📄 License  
-MIT © 2025 Aditya Domle ✨
+MIT © 2025 Shreyash Painuly ✨
