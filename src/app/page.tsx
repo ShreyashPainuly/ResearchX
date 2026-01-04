@@ -393,12 +393,12 @@ const Page = () => {
         >
           Made by{" "}
           <a
-            href="http://aadi.is-a.dev"
+            href="https://shreyashpainuly.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:underline hover:text-primary duration-300 transition-all"
           >
-            Aditya
+            Shreyash
           </a>
         </p>
       </section>

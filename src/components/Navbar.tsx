@@ -10,7 +10,7 @@ const Navbar = () => {
         href="/"
         className="flex items-center justify-center gap-2 tracking-tight px-2 text-lg md:text-2xl"
       >
-        <div className="size-8 md:size-10 rounded-full bg-gradient-to-bl from-primary to-amber-600"></div>
+        <div className="size-8 md:size-10 rounded-full bg-linear-to-bl from-primary to-amber-600"></div>
         ResearchX
       </Link>
       <div className="flex items-center justify-center gap-2 px-2">
